@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Define_equals_method_for_comparing_objects", "Define_equals_method_for_comparing_objects\Define_equals_method_for_comparing_objects.csproj", "{54649C15-B504-4124-975B-F0835591E057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54649C15-B504-4124-975B-F0835591E057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54649C15-B504-4124-975B-F0835591E057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54649C15-B504-4124-975B-F0835591E057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54649C15-B504-4124-975B-F0835591E057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7B91F2-391A-434C-9A10-38938B293EAF}
+	EndGlobalSection
+EndGlobal
